@@ -1,4 +1,17 @@
 {
   "schema_version": 1,
-  "modules": []
+  "modules": [
+    {
+      "sys_name": "pipeline_test",
+      "is_paid": false,
+      "price": 0,
+      "currency": "RUB",
+      "name": "Тест конвейера",
+      "description": "Временный модуль для проверки CI-конвейера. Будет удалён.",
+      "author": "Zentra Team",
+      "version": "1.0.0",
+      "download_url": "https://github.com/zentra-team/catalog/releases/download/pipeline_test-v1.0.0/pipeline_test-1.0.0.zip",
+      "checksum": "c451a89864b2aaa314daea997a2c1fc4a74d6fcdf806b8bedf1f1e8e41a5ae6d"
+    }
+  ]
 }
