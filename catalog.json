@@ -1,18 +1,4 @@
 {
   "schema_version": 1,
-  "modules": [
-    {
-      "sys_name": "pipeline_test",
-      "name": "Тест конвейера",
-      "version": "1.0.0",
-      "description": "Временный модуль для проверки канала скачивания. Будет удалён.",
-      "author": "Zentra Team",
-      "is_paid": false,
-      "price": 0,
-      "currency": "RUB",
-      "min_core_version": "1.1.0",
-      "download_url": "https://github.com/zentra-team/catalog/releases/download/pipeline_test-v1.0.0/pipeline_test-1.0.0.zip",
-      "checksum": "3505738586648c18e314519f69b778e6a100f45bf2ca5fbcbb48b09fde25c503"
-    }
-  ]
+  "modules": []
 }
