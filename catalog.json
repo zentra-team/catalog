@@ -1,4 +1,18 @@
 {
   "schema_version": 1,
-  "modules": []
+  "modules": [
+    {
+      "sys_name": "search",
+      "is_paid": false,
+      "price": 0,
+      "currency": "RUB",
+      "name": "Поиск по сайту",
+      "description": "Поиск по документам сайта. Тег [mod:search] вставляет форму поиска и результаты. Варианты: [mod:search:full] — крупная форма, [mod:search:compact] — компактная.",
+      "author": "Zentra Team",
+      "version": "1.0.0",
+      "download_url": "https://github.com/zentra-team/catalog/releases/download/search-v1.0.0/search-1.0.0.zip",
+      "checksum": "ca8edf7f7711d3c69a4096d69c0df20bea474113a92665bc91d073d3a8fbf93d",
+      "min_core_version": "1.1.0"
+    }
+  ]
 }
