@@ -9,9 +9,9 @@
       "name": "Поиск по сайту",
       "description": "Поиск по документам сайта. Тег [mod:search] вставляет форму поиска и результаты. Варианты: [mod:search:full] — крупная форма, [mod:search:compact] — компактная.",
       "author": "Zentra Team",
-      "version": "1.1.0",
-      "download_url": "https://github.com/zentra-team/catalog/releases/download/search-v1.1.0/search-1.1.0.zip",
-      "checksum": "db433daf5f6d6452ec1c5d40408354f538416949e089675176ae7576f3f4af84",
+      "version": "1.2.0",
+      "download_url": "https://github.com/zentra-team/catalog/releases/download/search-v1.2.0/search-1.2.0.zip",
+      "checksum": "84cf45fb029189f7bab27bcc5dc50bde5b02f85543e2a8371196cfd7a5cee95c",
       "min_core_version": "1.1.0"
     }
   ]
